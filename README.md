@@ -15,3 +15,5 @@ Assuming an Azure Storage Account has been created and you have Visual Studio 20
 4. Make a local file and then copy it to the container
 
 5. After a DOS prompt, delete the file and then the container.
+
+In this project you need to add Nuget package WindowsAzure.Storage v 9.3
